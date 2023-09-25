@@ -25,7 +25,7 @@
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
 <br>
 ![tailwind](https://img.shields.io/badge/-tailwind-grey?style=for-the-badge&logo=tailwind&logoColor=white&labelColor=8E2DE2)
-### Approach:
+
 <h4>Tech Stack:</h4>
 <ol>
   <li>Front-End Framework: React</li>
